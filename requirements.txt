@@ -1,0 +1,17 @@
+appnope
+backcall
+bcrypt
+blinker
+Click
+decorator
+Flask
+Flask-Bcrypt
+Flask-DebugToolbar
+Flask-SQLAlchemy
+Flask-WTF
+MarkupSafe
+prompt-toolkit
+psycopg2-binary
+ptyprocess
+pycparser
+six
